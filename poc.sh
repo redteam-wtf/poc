@@ -3,7 +3,7 @@
 #printf "\e[41;32m... Running code here ..." >> /dev/stderr
 #xcalc&
 #open -a Calculator&
-id&
+whoami&
 #printf "location is " && pwd& 
 #printf "running id is " && id&
 #id
